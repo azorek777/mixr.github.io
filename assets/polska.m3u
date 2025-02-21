@@ -47,6 +47,8 @@ http://109.233.89.166/BBC_World_News/index.m3u8
 http://109.233.89.166/Boomerang_HD/index.m3u8
 #EXTINF:-1 ,Canal+ 1
 http://178.219.128.68:64889/CANA1HD
+#EXTINF:-1 tvg-id="Canal+ 1" tvg-name="PL: CANAL+1 FHD" tvg-logo="" group-title="Poland",PL: CANAL+1 PL FHD
+http://af9ad.nicpob.xyz:80/live/KXPS5TTW4V/RCWqAaahxM@/1054200.ts
 #EXTINF:-1 ,Canal+ 360
 http://178.219.128.68:64889/CANAFAMIHD
 #EXTINF:-1 ,Canal+ Film
@@ -95,6 +97,16 @@ http://109.233.89.166/Eleven_Sports_2_HD/index.m3u8
 http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
 #EXTINF:-1 ,Eleven Sports 4
 http://109.233.89.166/ELEVEN_SPORTS_4_HD/index.m3u8
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="PL: CANAL+ SPORT 1 FHD" tvg-logo="" group-title="Poland",PL: CANAL+ SPORT 1 FHD
+http://af9ad.nicpob.xyz:80/live/KXPS5TTW4V/RCWqAaahxM@/1054199.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="PL: CANAL+ SPORT 2 SD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsr5jhDmPEgfBhKxapU1MryIRi6SgqsVBTuE5ArToCqcQ.png" group-title="Poland",PL: CANAL+ SPORT 2 SD
+http://af9ad.nicpob.xyz:80/live/KXPS5TTW4V/RCWqAaahxM@/1043548.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="PL: CANAL+ SPORT 3 HD" tvg-logo="https://img.kooora.com/?i=katkotati%2Flogo_chaine%2Fcanalplussport3pl.gif" group-title="Poland",PL: CANAL+ SPORT 3 HD
+http://af9ad.nicpob.xyz:80/live/KXPS5TTW4V/RCWqAaahxM@/920508.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 4" tvg-name="PL: CANAL+ SPORT 4 FHD" tvg-logo="http://astrill.today:80/images/FVvzZl0Sc3x6ApWPPs9OhaBDukTGmq_KCZtuwWJACDhI-mnysMwxhUjSGyMYvP-w0ClTlzD6Z6zI5msWY1GEnidPXfAHjNpcuQE3fCdkckoIvNQhhZDCxhzbZec8CJGE.png" group-title="Poland",PL: CANAL+ SPORT 4 FHD
+http://af9ad.nicpob.xyz:80/live/KXPS5TTW4V/RCWqAaahxM@/1035672.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="PL: CANAL+ SPORT FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsr5jhDmPEgfBhKxapU1MrypC3q9QspI6wsCt9Xx23ndQ.png" group-title="Poland",PL: CANAL+ SPORT 5 FHD
+http://af9ad.nicpob.xyz:80/live/KXPS5TTW4V/RCWqAaahxM@/1040891.ts
 #EXTINF:-1 ,Eska ROCK
 http://178.219.128.68:64889/ESKAROCKTV
 #EXTINF:-1 ,Eska TV
